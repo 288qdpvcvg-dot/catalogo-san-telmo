@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function loadProducts() {
     try {
-        const response = await fetch('./data/products.json');
+        const response = await fetch('/catalogo-san-telmo/data/products.json');
         const data = await response.json();
         allProducts = data.products;
         filteredProducts = [...allProducts];
