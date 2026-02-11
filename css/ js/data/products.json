@@ -1,0 +1,319 @@
+   1	{
+     2	  "products": [
+     3	    {
+     4	      "id": "01",
+     5	      "code": "TAB-01",
+     6	      "name": "Taburetes estilo Thonet 69 cm negros",
+     7	      "price": 190000,
+     8	      "original_price": 240000,
+     9	      "category": "muebles",
+    10	      "subcategory": "asientos",
+    11	      "condition": "Usado",
+    12	      "featured": false,
+    13	      "images": [
+    14	        "https://www.genspark.ai/api/files/s/vZH6nKcy",
+    15	        "https://www.genspark.ai/api/files/s/89gvBi5g",
+    16	        "https://www.genspark.ai/api/files/s/7j9M9gr1"
+    17	      ],
+    18	      "description_short": "Par de taburetes estilo Thonet bentwood negro, 69 cm alto, estructura firme.",
+    19	      "description_full": "PAR TABURETES ESTILO THONET — BENTWOOD — NEGRO (2 UNIDADES)\nEstado: Usado (buen estado)\nMedidas (cada uno): 69 cm alto | asiento Ø 37 cm | apoyapiés a 25 cm\nMaterial: madera curvada tipo bentwood (haya) + laqueado negro semi-gloss\nDetalle: orificio central para agarre (práctico para mover)\nSe vende: el par completo (2 unidades idénticas) — no se separan\nCondición: estructura firme; marcas leves normales en zona de apoyapiés/superficie",
+    20	      "specs": {
+    21	        "dimensions": "69 cm alto × Ø 37 cm asiento",
+    22	        "material": "Madera curvada bentwood (haya)",
+    23	        "finish": "Laqueado negro semi-gloss",
+    24	        "quantity": "2 unidades (par)"
+    25	      },
+    26	      "keywords": ["taburete", "thonet", "bentwood", "negro", "vintage"]
+    27	    },
+    28	    {
+    29	      "id": "02",
+    30	      "code": "BIB-02",
+    31	      "name": "Biblioteca de hierro y chapa 2,10 m",
+    32	      "price": 290000,
+    33	      "original_price": 390000,
+    34	      "category": "muebles",
+    35	      "subcategory": "almacenamiento",
+    36	      "condition": "Nuevo",
+    37	      "featured": false,
+    38	      "images": [
+    39	        "https://www.genspark.ai/api/files/s/mkIMyeJp",
+    40	        "https://www.genspark.ai/api/files/s/pIewXssD",
+    41	        "https://www.genspark.ai/api/files/s/xlhZE5Op"
+    42	      ],
+    43	      "description_short": "Biblioteca industrial hierro ángulo + chapa galvanizada, 5 estantes, 2,10 m altura.",
+    44	      "description_full": "BIBLIOTECA DE HIERRO + CHAPA — 2,10 m (PIEZA ÚNICA)\nEstado: Nuevo\nMedidas: 2,10 m (alto) × 60 cm (ancho) × 34 cm (prof.)\nEstructura: hierro ángulo de alta resistencia\nEstantes: chapa galvanizada gruesa\nCantidad: 5 estantes (separación aprox. 37–39 cm)\nDetalle de terminación: pátina de óxido controlado (estético)\nCarga estimada: 30–40 kg por estante (referencial)\nIncluye: biblioteca + gancho lateral decorativo",
+    45	      "specs": {
+    46	        "dimensions": "2,10 m × 60 cm × 34 cm",
+    47	        "material": "Hierro ángulo + chapa galvanizada",
+    48	        "shelves": "5 estantes",
+    49	        "load_capacity": "30-40 kg por estante"
+    50	      },
+    51	      "keywords": ["biblioteca", "hierro", "industrial", "estanteria", "chapa"]
+    52	    },
+    53	    {
+    54	      "id": "03",
+    55	      "code": "BAU-03",
+    56	      "name": "Baúl indio Sheesham 124 cm + hierro forjado",
+    57	      "price": 890000,
+    58	      "original_price": 980000,
+    59	      "category": "muebles",
+    60	      "subcategory": "almacenamiento",
+    61	      "condition": "Usado - Como nuevo",
+    62	      "featured": false,
+    63	      "images": [
+    64	        "https://www.genspark.ai/api/files/s/LFaFJZ7J",
+    65	        "https://www.genspark.ai/api/files/s/CzIHf2PO",
+    66	        "https://www.genspark.ai/api/files/s/Ot2v0aMQ",
+    67	        "https://www.genspark.ai/api/files/s/qDcCyOg1"
+    68	      ],
+    69	      "description_short": "Baúl antiguo indio Sheesham + hierro forjado, 124 cm, Rajastán 1880-1920.",
+    70	      "description_full": "BAÚL ANTIGUO INDIO — SHEESHAM + HIERRO FORJADO (PIEZA ÚNICA)\nEstado: Usado (como nuevo)\nMedidas: 124 cm (frente) × 72 cm (prof.) × 45 cm (alto)\nMateriales: madera maciza Sheesham (Indian rosewood) + herrajes de hierro forjado\nOrigen: Rajastán, India (período estimado 1880–1920)\nUso: baúl de guardado / mesa ratona / pie de cama (gran capacidad)\nCondición: Estructura sólida, bisagras funcionales, interior limpio, pátina natural de antigüedad\nDetalle: 2 marcas circulares leves en un lateral",
+    71	      "specs": {
+    72	        "dimensions": "124 cm × 72 cm × 45 cm",
+    73	        "material": "Sheesham (Indian Rosewood)",
+    74	        "origin": "Rajastán, India (1880-1920)",
+    75	        "hardware": "Hierro forjado"
+    76	      },
+    77	      "keywords": ["baul", "indio", "sheesham", "antiguo", "rajasthan"]
+    78	    },
+    79	    {
+    80	      "id": "04",
+    81	      "code": "SIL-04",
+    82	      "name": "Sillón Minima cuero negro (70×70×80 cm)",
+    83	      "price": 320000,
+    84	      "original_price": 380000,
+    85	      "category": "muebles",
+    86	      "subcategory": "asientos",
+    87	      "condition": "Usado - Como Nuevo",
+    88	      "featured": false,
+    89	      "images": [
+    90	        "https://www.genspark.ai/api/files/s/uAsS1jrQ",
+    91	        "https://www.genspark.ai/api/files/s/tUwWuink",
+    92	        "https://www.genspark.ai/api/files/s/NprQj2fK"
+    93	      ],
+    94	      "description_short": "Sillón Bottega Minima, diseño argentino, cuero negro, estructura acero.",
+    95	      "description_full": "SILLÓN BOTTEGA MINIMA — CUERO NEGRO (DISEÑO ARGENTINO)\nEstado: Usado (como nuevo)\nMedidas: 70 cm (alto) × 70 cm (ancho) × 80 cm (prof.)\nEstructura: acero tubular con terminación negro mate\nAsiento/Respaldo: cuero vaqueta negro (cosido reforzado)\nCondición: 9/10 — estructura firme, cuero y costuras en excelente estado",
+    96	      "specs": {
+    97	        "dimensions": "70 cm × 70 cm × 80 cm",
+    98	        "material": "Acero tubular + cuero vaqueta",
+    99	        "finish": "Negro mate",
+   100	        "condition_score": "9/10"
+   101	      },
+   102	      "keywords": ["sillon", "minima", "cuero", "argentino", "negro"]
+   103	    },
+   104	    {
+   105	      "id": "05",
+   106	      "code": "AUX-05",
+   107	      "name": "Mesa lateral mid-century",
+   108	      "price": 690000,
+   109	      "original_price": 750000,
+   110	      "category": "muebles",
+   111	      "subcategory": "mesas",
+   112	      "condition": "Nuevo",
+   113	      "featured": false,
+   114	      "images": [
+   115	        "https://www.genspark.ai/api/files/s/nhWdt6B9",
+   116	        "https://www.genspark.ai/api/files/s/tChODHGC",
+   117	        "https://www.genspark.ai/api/files/s/nlnSKVbK"
+   118	      ],
+   119	      "description_short": "Réplica premium Adrian Pearsall, nogal biomorphic + vidrio templado.",
+   120	      "description_full": "MESA LATERAL MID-CENTURY – NOGAL + VIDRIO TEMPLADO\nRéplica premium importada USA del icónico diseño biomorphic de Adrian Pearsall (Craft Associates, 1960s). Nueva sin uso, solo exhibición en showroom.\nDiámetro tapa: 46 cm\nAltura total: 45 cm\nMaterial base: Nogal forma orgánica gota (gourd shape)\nAcabado: Laca alto brillo color caoba/nogal\nTapa: Vidrio templado transparente 10-12mm\nPeso: 7 kg aprox.\nOrigen: Importado USA",
+   121	      "specs": {
+   122	        "dimensions": "Ø 46 cm × 45 cm alto",
+   123	        "material": "Nogal + vidrio templado",
+   124	        "style": "Adrian Pearsall inspired",
+   125	        "origin": "Importado USA"
+   126	      },
+   127	      "keywords": ["mesa", "auxiliar", "pearsall", "nogal", "vidrio"]
+   128	    },
+   129	    {
+   130	      "id": "06",
+   131	      "code": "DRO-06",
+   132	      "name": "DJI Mavic Pro NUEVO (sin baterías funcionales)",
+   133	      "price": 750000,
+   134	      "original_price": 850000,
+   135	      "category": "electronica",
+   136	      "subcategory": "drones",
+   137	      "condition": "Nuevo",
+   138	      "featured": false,
+   139	      "images": [
+   140	        "https://www.genspark.ai/api/files/s/zhay6nQj",
+   141	        "https://www.genspark.ai/api/files/s/uc74LKgr",
+   142	        "https://www.genspark.ai/api/files/s/4bRkeJKw",
+   143	        "https://www.genspark.ai/api/files/s/fcKWVZ8s"
+   144	      ],
+   145	      "description_short": "Drone DJI Mavic Pro sin uso, incluye todo menos baterías funcionales.",
+   146	      "description_full": "DRONE DJI MAVIC PRO — NUEVO (0 uso) — SIN BATERÍAS FUNCIONALES\nEstado: Nuevo (sin uso / sin vuelo)\nImportante: las 2 baterías originales se incluyen pero NO funcionan (deterioro por guarda). Para volar necesitás comprar batería(s) nuevas compatibles.\nIncluye: Drone Mavic Pro (cámara + gimbal), Control remoto, Cargador original, 2 baterías NO funcionales, Hélices de repuesto (2 pares), Bolso original, Manual",
+   147	      "specs": {
+   148	        "brand": "DJI",
+   149	        "model": "Mavic Pro",
+   150	        "condition": "Nuevo sin uso",
+   151	        "note": "Requiere baterías nuevas"
+   152	      },
+   153	      "keywords": ["drone", "dji", "mavic", "pro", "camara"]
+   154	    },
+   155	    {
+   156	      "id": "07",
+   157	      "code": "KAM-07",
+   158	      "name": "Parrilla Kamado Kadu K18 18\" cerámica",
+   159	      "price": 990000,
+   160	      "original_price": 1100000,
+   161	      "category": "muebles",
+   162	      "subcategory": "exterior",
+   163	      "condition": "Usado - Como Nuevo",
+   164	      "featured": false,
+   165	      "images": [
+   166	        "https://www.genspark.ai/api/files/s/c6j2czVx",
+   167	        "https://www.genspark.ai/api/files/s/PwH7SwvX",
+   168	        "https://www.genspark.ai/api/files/s/Q4FtieyS",
+   169	        "https://www.genspark.ai/api/files/s/TNSHnRl0",
+   170	        "https://www.genspark.ai/api/files/s/WJWTYuGF"
+   171	      ],
+   172	      "description_short": "Kamado cerámica 18\", 4 en 1: asar/ahumar/hornear, carro inox + mesas bambú.",
+   173	      "description_full": "KAMADO KADU K18 (18\") — PARRILLA CERÁMICA 4 EN 1\nEstado: Usado (como nuevo)\nIdeal para: asar / ahumar / hornear / baja temperatura\nCapacidad: 5–7 personas aprox.\nDiámetro exterior: 46 cm (18\")\nGrilla de cocción: 39 cm\nAltura con carro: 110 cm\nPeso aprox.: 74 kg\nCuerpo cerámico negro, Carro de acero inoxidable con ruedas, 2 mesas laterales de bambú plegables, Parrilla inox 304, Termómetro integrado",
+   174	      "specs": {
+   175	        "diameter": "18\" (46 cm)",
+   176	        "material": "Cerámica + acero inox",
+   177	        "capacity": "5-7 personas",
+   178	        "weight": "74 kg"
+   179	      },
+   180	      "keywords": ["kamado", "parrilla", "ceramica", "bbq", "ahumar"]
+   181	    },
+   182	    {
+   183	      "id": "08",
+   184	      "code": "ESC-08",
+   185	      "name": "Escultura Neoclásica Atlas en yeso 130 cm",
+   186	      "price": 990000,
+   187	      "original_price": 1400000,
+   188	      "category": "arte",
+   189	      "subcategory": "escultura",
+   190	      "condition": "Usado - Buen Estado",
+   191	      "featured": false,
+   192	      "images": [
+   193	        "https://www.genspark.ai/api/files/s/a4fwe4qG",
+   194	        "https://www.genspark.ai/api/files/s/ZNLz993r",
+   195	        "https://www.genspark.ai/api/files/s/7ofA8Se7"
+   196	      ],
+   197	      "description_short": "Escultura Atlas yeso macizo 130 cm, estilo neoclásico, 50-60 kg.",
+   198	      "description_full": "ESCULTURA ATLAS EN YESO — 130 CM (ESTILO NEOCLÁSICO)\nEstado: Usado (buen estado)\nMaterial: yeso macizo (plaster)\nAltura total: 130 cm (con base)\nPeso aprox.: 50–60 kg (pieza pesada)\nCondición: Pátina natural de época / envejecimiento. Líneas de fractura estables en rodillas (visibles en fotos, no afecta exhibición)\nProcedencia: adquirida en anticuario de Plaza Dorrego (2021)",
+   199	      "specs": {
+   200	        "dimensions": "130 cm altura",
+   201	        "material": "Yeso macizo",
+   202	        "weight": "50-60 kg",
+   203	        "style": "Neoclásico"
+   204	      },
+   205	      "keywords": ["escultura", "atlas", "yeso", "neoclasica", "antiguo"]
+   206	    },
+   207	    {
+   208	      "id": "09",
+   209	      "code": "CHE-09",
+   210	      "name": "Sillón Chesterfield 3 cuerpos cuero 2,10 m",
+   211	      "price": 1600000,
+   212	      "original_price": 1800000,
+   213	      "category": "muebles",
+   214	      "subcategory": "asientos",
+   215	      "condition": "Usado - Como Nuevo",
+   216	      "featured": true,
+   217	      "images": [
+   218	        "https://www.genspark.ai/api/files/s/OBIWVqAj",
+   219	        "https://www.genspark.ai/api/files/s/dY02IBot",
+   220	        "https://www.genspark.ai/api/files/s/Dwv3IKNp",
+   221	        "https://www.genspark.ai/api/files/s/vMIuCgaS"
+   222	      ],
+   223	      "description_short": "Chesterfield 3 cuerpos cuero vacuno top-grain, capitoné, tachas bronce.",
+   224	      "description_full": "SILLÓN CHESTERFIELD 3 CUERPOS — CUERO VACUNO (CASI NUEVO)\nEstado: Usado (como nuevo) — exhibición showroom 2023–2025\nMedidas: 2,10 m (largo) × 83 cm (ancho) × 84 cm (alto) × 82 cm (prof.)\nPeso aprox.: 70 kg\nTapizado: cuero vacuno top-grain semi-aniline (pátina natural / efecto pull-up)\nDetalles: capitoné + tachas bronce (aplicación manual)\nEstructura: madera + espuma alta densidad (35 kg/m³) + base con cinchas/resortes",
+   225	      "specs": {
+   226	        "dimensions": "2,10 m × 83 cm × 84 cm",
+   227	        "material": "Cuero vacuno top-grain",
+   228	        "weight": "70 kg",
+   229	        "details": "Capitoné + tachas bronce"
+   230	      },
+   231	      "keywords": ["chesterfield", "cuero", "sillon", "capitone", "clasico"]
+   232	    },
+   233	    {
+   234	      "id": "10",
+   235	      "code": "AUX-10",
+   236	      "name": "Mesa auxiliar regulable estilo Eileen Gray",
+   237	      "price": 590000,
+   238	      "original_price": 650000,
+   239	      "category": "muebles",
+   240	      "subcategory": "mesas",
+   241	      "condition": "Nuevo",
+   242	      "featured": false,
+   243	      "images": [
+   244	        "https://www.genspark.ai/api/files/s/5aWBXIY7",
+   245	        "https://www.genspark.ai/api/files/s/AcnITO1u",
+   246	        "https://www.genspark.ai/api/files/s/hmU5l1BI"
+   247	      ],
+   248	      "description_short": "Mesa regulable cromada E1027, Ø 51 cm, altura 56-100 cm ajustable.",
+   249	      "description_full": "MESA REGULABLE CROMADA + VIDRIO — ESTILO E1027\nEstado: Nuevo (exhibición showroom)\nMedidas: tapa Ø 51 cm | altura regulable 56–100 cm | base tipo C 30 cm\nMaterial: estructura cromada + vidrio templado (borde pulido)\nMecanismo: ajuste por pin + cadena (sube/baja por posiciones)\nCarga recomendada: hasta 15 kg aprox. | Peso: 9 kg aprox.",
+   250	      "specs": {
+   251	        "dimensions": "Ø 51 cm × 56-100 cm ajustable",
+   252	        "material": "Acero cromado + vidrio templado",
+   253	        "mechanism": "Ajuste por pin + cadena",
+   254	        "style": "Eileen Gray E1027 inspired"
+   255	      },
+   256	      "keywords": ["mesa", "regulable", "eileen gray", "cromada", "ajustable"]
+   257	    },
+   258	    {
+   259	      "id": "11",
+   260	      "code": "LOU-11",
+   261	      "name": "Sillón lounge BLACK estilo Eames + otomana",
+   262	      "price": 880000,
+   263	      "original_price": 980000,
+   264	      "category": "muebles",
+   265	      "subcategory": "asientos",
+   266	      "condition": "Nuevo",
+   267	      "featured": true,
+   268	      "images": [
+   269	        "https://www.genspark.ai/api/files/s/SaqWqUiF",
+   270	        "https://www.genspark.ai/api/files/s/fPSl2tRp",
+   271	        "https://www.genspark.ai/api/files/s/vzHOnIAE"
+   272	      ],
+   273	      "description_short": "Lounge chair + otomana estilo Eames, cuero PU negro, base cromada.",
+   274	      "description_full": "SILLÓN LOUNGE ESTILO EAMES + OTOMANA — NEGRO (2 PIEZAS)\nEstado: Nuevo (exhibición showroom / sin uso residencial)\nIncluye: sillón + otomana\nSillón: 80 cm (ancho) × 60 cm (prof.) × 80 cm (alto) | asiento 38 cm\nOtomana: 60 × 45 × 40 cm\nPeso aprox.: 37 kg (conjunto)\nTapizado: cuero sintético (PU) negro\nEstructura: madera multicapa terminación negra\nBase: metálica cromada",
+   275	      "specs": {
+   276	        "dimensions": "Sillón 80×60×80 cm + Otomana 60×45×40 cm",
+   277	        "material": "PU negro + madera + base cromada",
+   278	        "weight": "37 kg conjunto",
+   279	        "style": "Eames lounge inspired"
+   280	      },
+   281	      "keywords": ["lounge", "eames", "sillon", "otomana", "negro"]
+   282	    },
+   283	    {
+   284	      "id": "12",
+   285	      "code": "BAN-12",
+   286	      "name": "Par sillas bajas indias 90×90 cm cuero + tachas",
+   287	      "price": 890000,
+   288	      "original_price": 950000,
+   289	      "category": "muebles",
+   290	      "subcategory": "asientos",
+   291	      "condition": "Nuevo",
+   292	      "featured": true,
+   293	      "images": [
+   294	        "https://www.genspark.ai/api/files/s/G2GkgqeP",
+   295	        "https://www.genspark.ai/api/files/s/bY7h0Vqm",
+   296	        "https://www.genspark.ai/api/files/s/Q1qT5IAR"
+   297	      ],
+   298	      "description_short": "Par sillas estilo Pidha, Sheesham, cuero negro, tachas doradas, low seating.",
+   299	      "description_full": "PAR DE SILLAS BAJAS ESTILO PIDHA — CUERO NEGRO + TACHAS DORADAS (2 UNIDADES)\nEstado: Nuevo (exhibición showroom / sin uso)\nSe vende: el par completo (2 unidades) — no se separan\nMedidas (cada unidad): 90 cm ancho × 90 cm prof. × 90 cm alto | asiento 35 cm\nMaterial: madera Sheesham (rosewood) + cuero genuino negro + tachas doradas\nConstrucción: estructura sólida, respaldo reclinado cómodo (ideal low seating)\nUso ideal: lounge, lectura, meditación, living contemporáneo",
+   300	      "specs": {
+   301	        "dimensions": "90 cm × 90 cm × 90 cm (cada unidad)",
+   302	        "material": "Sheesham + cuero genuino + tachas doradas",
+   303	        "seat_height": "35 cm (low seating)",
+   304	        "quantity": "2 unidades (par)"
+   305	      },
+   306	      "keywords": ["banqueta", "india", "pidha", "cuero", "tachas"]
+   307	    }
+   308	  ],
+   309	  "metadata": {
+   310	    "total_products": 12,
+   311	    "last_updated": "2026-02-10",
+   312	    "categories": ["muebles", "electronica", "arte"],
+   313	    "price_range": {
+   314	      "min": 190000,
+   315	      "max": 1600000
+   316	    }
+   317	  }
+   318	}
+   319	
